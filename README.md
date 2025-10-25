@@ -21,7 +21,7 @@
             <a href="#contact" class="cta-button">Связаться со мной</a>
         </div>
         <div class="hero-image">
-            <img src="img/img2.jpeg" alt="Фото Вики">
+            <img src="img2.jpeg" alt="Фото Вики">
         </div>
     </section>
 </body>
